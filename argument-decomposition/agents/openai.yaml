@@ -1,0 +1,4 @@
+interface:
+  display_name: "论证拆解"
+  short_description: "忠实重构哲学与自然语言论证，标注前提、推理和缺口，保留原意。"
+  default_prompt: "请用 $argument-decomposition 拆解下面的论证，标出前提、推导依据和实质缺口。"
